@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git gonna create the .git folder and set up the tracking.
+
+I’m not sure what should I do.
