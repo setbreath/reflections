@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 Git gonna create the .git folder and set up the tracking.
 
 I’m not sure what should I do.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area works like the cache in a processor which is for storing files temporarily. While the repository is where git stores all the commits. I could say the staging area saves only the newest version and it's the version waiting to be committed. The repository stores all the older version since it created. The working directory is where all these files located.
