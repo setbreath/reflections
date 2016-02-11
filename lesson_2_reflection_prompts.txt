@@ -7,3 +7,21 @@ I’m not sure what should I do.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area works like the cache in a processor which is for storing files temporarily. While the repository is where git stores all the commits. I could say the staging area saves only the newest version and it's the version waiting to be committed. The repository stores all the older version since it created. The working directory is where all these files located.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Check the stging area when I think there is a logical change in my project and then summit a commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When developing in a group, people may focus on different features so everyone could make a branch that won’t change the master during the developing procedure. It’s easier for customers to check the stable version and convenient for developers to test on the same platform.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams shows clearly the child-parent relations and the commit reachability of the hole projects.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Save time for automatically. But sometimes conflicts happens in auto process.
