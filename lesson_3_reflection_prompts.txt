@@ -13,3 +13,7 @@ branches are local labels for different commit to classify your work for differe
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It helps to keep track of the latest feature so all the development could try to compatible with or even take advantage of the core stable version.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaborate without Git would be much harder. Cause it's difficult to check changes made by different people and find a place to communicate with each other on the same version of code. Using GitHub help all the developers to reach a consensus at every detail and help imporving code via comments system.
