@@ -9,3 +9,7 @@ Cause there may be some part of my work I don't want them to be public or the la
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 branches are local labels for different commit to classify your work for different purpose. Clone cmd copy the remote or local repository to a local directory. Fork cmd copies other's repository on GitHub to your own space and create a same name repository. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It helps to keep track of the latest feature so all the development could try to compatible with or even take advantage of the core stable version.
